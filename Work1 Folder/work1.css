@@ -1,0 +1,54 @@
+#image1 {
+  width: 20%;
+  height: auto;
+  display: block;
+  margin-left: right;
+  margin-right: left;
+  width: 200px;
+  float: left;
+}
+
+#image2 {
+  width: 20%;
+  height: auto;
+  display: block;
+  margin-left: right;
+  margin-right: left;
+  width: 200px;
+  float: left;
+}
+
+#image3{
+  width: 20%;
+  height: auto;
+  display: block;
+  margin-left: right;
+  margin-right: left;
+  width: 200px;
+  float: left;
+}
+
+p, a {
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#tribute-page, #tribute-link {
+  text-align: center;
+  height: 100%;
+  
+}
+
+#heading-title {
+  text-align: center;
+}
+
+body {
+  background-color: pink;
+  color: blue;
+  text-align: justify;
+}
